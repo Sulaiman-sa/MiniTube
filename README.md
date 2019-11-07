@@ -5,10 +5,12 @@ This project was built for learning purposes.
 ## Getting Started
 
  To run the project first clone it then run the following commands.
+ ```
  npm install
  npm start
+ ```
  
- page will be available at localhost:3000
+ The page will be available at localhost:3000
  
  
 
